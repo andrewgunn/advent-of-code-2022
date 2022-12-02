@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode;
 
-public class Day1
+public class Day1 : IDay
 {
     private readonly List<int> _calorieTotals;
 
